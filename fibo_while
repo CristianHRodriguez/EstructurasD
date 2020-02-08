@@ -1,0 +1,12 @@
+x = int(input('ingrese el numero de datos a visualizar'))
+a = 0
+b = 1
+temp = 0
+i = 1
+while i < x:
+    temp = a + b
+    a = b
+    b = temp
+    print (temp)
+    i = i + 1
+    
