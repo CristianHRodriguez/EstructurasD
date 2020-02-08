@@ -1,8 +1,14 @@
-def fib(y):
-x = int(input('Ingrese cuantos numeros desea ver'))
-    
-    if y<2:
-        return y
-    return fib(y-1)+fib(y-2)
-for i in range(x):
-    print(fib(i))
+def fib(x,y,z):
+	if z!=0:
+		c = z - 1
+		f3 = x + y
+		print(f3)	
+		return fib(y,f3,c)
+m = int(input('Ingrese cuantos numeros desea ver'))
+
+a = 0
+b = 1
+print(a)
+print(b)
+cont = m
+fib(a,b,cont-2)
