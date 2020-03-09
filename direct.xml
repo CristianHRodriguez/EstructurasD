@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+
+<transmi>
+  <troncal n="Caracas Sur">
+    <parada>
+      <nombre_e>Portal Usme</nombre_e>
+      <num>1</num>
+      <tipo>portal</tipo>
+      <latitud>4.531899</latitud>
+      <longitud>-74.119252</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Molinos</nombre_e>
+      <num>2</num>
+      <tipo>normal</tipo>
+      <latitud>4.556984</latitud>
+      <longitud>-74.121765</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Consuelo</nombre_e>
+      <num>3</num>
+      <tipo>normal</tipo>
+      <latitud>4.560125</latitud>
+      <longitud>-74.123823</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Socorro</nombre_e>
+      <num>4</num>
+      <tipo>normal</tipo>
+      <latitud>4.564669</latitud>
+      <longitud>-74.125592</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Santa Lucía</nombre_e>
+      <num>5</num>
+      <tipo>normal</tipo>
+      <latitud>4.570922</latitud>
+      <longitud>-74.124681</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Calle 40 Sur</nombre_e>
+      <num>6</num>
+      <tipo>normal</tipo>
+      <latitud>4.575728</latitud>
+      <longitud>-74.120113</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Quiroga</nombre_e>
+      <num>7</num>
+      <tipo>normal</tipo>
+      <latitud>4.576774</latitud>
+      <longitud>-74.114292</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Olaya</nombre_e>
+      <num>8</num>
+      <tipo>normal</tipo>
+      <latitud>4.578889</latitud>
+      <longitud>-74.107356</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Restrepo</nombre_e>
+      <num>9</num>
+      <tipo>normal</tipo>
+      <latitud>4.581823</latitud>
+      <longitud>-74.101430</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Fucha</nombre_e>
+      <num>10</num>
+      <tipo>normal</tipo>
+      <latitud>4.582775</latitud>
+      <longitud>-74.099679</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Nariño</nombre_e>
+      <num>11</num>
+      <tipo>normal</tipo>
+      <latitud>4.586337</latitud>
+      <longitud>-74.093883</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Hortúa</nombre_e>
+      <num>12</num>
+      <tipo>normal</tipo>
+      <latitud>4.590761</latitud>
+      <longitud>-74.090271</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Hospital</nombre_e>
+      <num>13</num>
+      <tipo>normal</tipo>
+      <latitud>4.594895</latitud>
+      <longitud>-74.086324</longitud>
+    </parada>
+  </troncal>
+  <troncal n="Caracas">
+    <parada>
+      <nombre_e>Tercer Milenio</nombre_e>
+      <num>14</num>
+      <tipo>normal</tipo>
+      <latitud>4.598284</latitud>
+      <longitud>-74.083735</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Avenida Jiménez</nombre_e>
+      <num>15</num>
+      <tipo>Intercambiador</tipo>
+      <latitud>4.602882</latitud>
+      <longitud>-74.080419</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Calle 19</nombre_e>
+      <num>16</num>
+      <tipo>normal</tipo>
+      <latitud>4.607880</latitud>
+      <longitud>-74.076867</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Calle 22</nombre_e>
+      <num>17</num>
+      <tipo>normal</tipo>
+      <latitud>4.611707</latitud>
+      <longitud>-74.074687</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Calle 26</nombre_e>
+      <num>18</num>
+      <tipo>normal</tipo>
+      <latitud>4.616089</latitud>
+      <longitud>-74.072450</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Calle 34</nombre_e>
+      <num>19</num>
+      <tipo>normal</tipo>
+      <latitud>4.621587</latitud>
+      <longitud>-74.069731</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Avenida 39</nombre_e>
+      <num>20</num>
+      <tipo>normal</tipo>
+      <latitud>4.627323</latitud>
+      <longitud>-74.068618</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Calle 45</nombre_e>
+      <num>21</num>
+      <tipo>normal</tipo>
+      <latitud>4.631428</latitud>
+      <longitud>-74.067890</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Marly</nombre_e>
+      <num>22</num>
+      <tipo>normal</tipo>
+      <latitud>4.637428</latitud>
+      <longitud>-74.066848</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Calle 57</nombre_e>
+      <num>23</num>
+      <tipo>normal</tipo>
+      <latitud>4.643050</latitud>
+      <longitud>-74.065867</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Calle 63</nombre_e>
+      <num>24</num>
+      <tipo>normal</tipo>
+      <latitud>4.648981</latitud>
+      <longitud>-74.064770</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Flores</nombre_e>
+      <num>25</num>
+      <tipo>normal</tipo>
+      <latitud>4.655037</latitud>
+      <longitud>-74.062980</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Calle 72</nombre_e>
+      <num>26</num>
+      <tipo>normal</tipo>
+      <latitud>4.657956</latitud>
+      <longitud>-74.062110</longitud>
+    </parada>
+    <parada>
+      <nombre_e>Calle 76</nombre_e>
+      <num>27</num>
+      <tipo>normal</tipo>
+      <latitud>4.662923</latitud>
+      <longitud>-74.061296</longitud>
+    </parada>
+  </troncal>
+</transmi>

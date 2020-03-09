@@ -1,0 +1,1 @@
+El archivo .ipynb fue creado en un notebook de colab, pero no tengo seguridad sí su exportación sea exactamente igual al archivo trabajado directamente en .py
