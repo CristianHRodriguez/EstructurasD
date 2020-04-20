@@ -1,0 +1,1405 @@
+{
+  "transporte" : "Transmilenio",
+  "troncales" : [
+    {
+      "nombreT" : "Caracas Sur",
+      "n_estaciones" : 13,
+      "n_t" : 1,
+      "estaciones" : [
+
+        {
+          "nombreE" : "Hospital",
+          "latitud" : 4.594895,
+          "longitud" : -74.086324,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 102,
+          "numero" : 1
+        },
+        {
+          "nombreE" : "Hortúa",
+          "latitud" : 4.590761,
+          "longitud" : -74.090271,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 35,
+          "numero" : 2
+        },
+        {
+          "nombreE" : "Nariño",
+          "latitud" : 4.586337,
+          "longitud" : -74.093883,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 35,
+          "numero" : 3
+        },
+        {
+          "nombreE" : "Fucha",
+          "latitud" : 4.582775,
+          "longitud" : -74.099679,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 35,
+          "numero" : 4
+        },
+        {
+          "nombreE" : "Restrepo",
+          "latitud" : 4.581823,
+          "longitud" : -74.101430,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 38,
+          "numero" : 5
+        },
+        {
+          "nombreE" : "Olaya",
+          "latitud" : 4.578889,
+          "longitud" : -74.107356,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 36,
+          "numero" : 6
+        },
+        {
+          "nombreE" : "Quiroga",
+          "latitud" : 4.576774,
+          "longitud" : -74.114292,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 39,
+          "numero" : 7
+        },
+        {
+          "nombreE" : "Calle 40 Sur",
+          "latitud" : 4.575728,
+          "longitud" : -74.120113,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 39,
+          "numero" : 8
+        },
+        {
+          "nombreE" : "Santa Lucía",
+          "latitud" : 4.570922,
+          "longitud" : -74.124681,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 62,
+          "numero" : 9
+        },
+        {
+          "nombreE" : "Socorro",
+          "latitud" : 4.564669,
+          "longitud" : -74.125592,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 62,
+          "numero" : 10
+        },
+        {
+          "nombreE" : "Consuelo",
+          "latitud" : 4.560125,
+          "longitud" : -74.123823,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 62,
+          "numero" : 11
+        },
+        {
+          "nombreE" : "Molinos",
+          "latitud" : 4.556984,
+          "longitud" : -74.121765,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 62,
+          "numero" : 12
+        },
+        {
+          "nombreE" : "Portal Usme",
+          "latitud" : 4.531899,
+          "longitud" : -74.119252,
+          "tipo" : "portal",
+          "alimentadores" : "No",
+          "UPZ" : 61,
+          "numero" : 13
+        }
+
+      ]
+    },
+    {
+      "nombreT" : "Caracas",
+      "n_estaciones" : 14,
+      "n_t" : 2,
+      "estaciones" : [
+        {
+          "nombreE" : "Calle 76",
+          "latitud" : 4.662923,
+          "longitud" : -74.061296,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 99,
+          "numero" : 1
+        },
+        {
+          "nombreE" : "Calle 72",
+          "latitud" : 4.657956,
+          "longitud" : -74.062110,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 99,
+          "numero" : 2
+        },
+        {
+          "nombreE" : "Flores",
+          "latitud" : 4.655037,
+          "longitud" : -74.062980,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 99,
+          "numero" : 3
+        },
+        {
+          "nombreE" : "Calle 63",
+          "latitud" : 4.648981,
+          "longitud" : -74.064770,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 99,
+          "numero" : 4
+        },
+        {
+          "nombreE" : "Calle 57",
+          "latitud" : 4.643050,
+          "longitud" : -74.065867,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 99,
+          "numero" : 5
+        },
+        {
+          "nombreE" : "Marly",
+          "latitud" : 4.637428,
+          "longitud" : -74.066848,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 99,
+          "numero" : 6
+        },
+        {
+          "nombreE" : "Calle 45",
+          "latitud" : 4.631428,
+          "longitud" : -74.067890,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 101,
+          "numero" : 7
+        },
+        {
+          "nombreE" : "Avenida 39",
+          "latitud" : 4.627323,
+          "longitud" : -74.068618,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 101,
+          "numero" : 8
+        },
+        {
+          "nombreE" : "Calle 34",
+          "latitud" : 4.621587,
+          "longitud" : -74.069731,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 101,
+          "numero" : 9
+        },
+        {
+          "nombreE" : "Calle 26",
+          "latitud" : 4.616089,
+          "longitud" : -74.072450,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 101,
+          "numero" : 10
+        },
+        {
+          "nombreE" : "Calle 22",
+          "latitud" : 4.611707,
+          "longitud" : -74.074687,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 93,
+          "numero" : 11
+        },
+        {
+          "nombreE" : "Calle 19",
+          "latitud" : 4.607880,
+          "longitud" : -74.076867,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 93,
+          "numero" : 12
+        },
+        {
+          "nombreE" : "Avenida Jiménez",
+          "latitud" : 4.602882,
+          "longitud" : -74.080419,
+          "tipo" : "intercambiador",
+          "alimentadores" : "No",
+          "UPZ" : 102,
+          "numero" : 13
+        },
+        {
+          "nombreE" : "Tercer Milenio",
+          "latitud" : 4.598284,
+          "longitud" : -74.083735,
+          "tipo" : "normal",
+          "alimentadores" : "No",
+          "UPZ" : 102,
+          "numero" : 14
+        }
+      ]
+    },
+    {
+      "nombreT": "Autopista Norte",
+      "n_estaciones": 17,
+      "n_t" : 3,
+      "estaciones": [
+        {
+          "nombreE": "Terminal",
+          "latitud": 4.768721,
+          "longitud": -74.043443,
+          "tipo": "normal",
+          "alimentadores": "Si",
+          "UPZ": 1,
+          "numero": 1
+        },
+        {
+          "nombreE": "Calle 187",
+          "latitud": 4.763205,
+          "longitud": -74.044631,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 9,
+          "numero": 2
+        },
+        {
+          "nombreE": "Portal Norte",
+          "latitud": 4.754067,
+          "longitud": -74.046069,
+          "tipo": "portal",
+          "alimentadores": "Si",
+          "UPZ": 10,
+          "numero": 3
+        },
+        {
+          "nombreE": "Toberin",
+          "latitud": 4.748111,
+          "longitud": -74.046955,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 12,
+          "numero": 4
+        },
+        {
+          "nombreE": "Calle 161",
+          "latitud": 4.743126,
+          "longitud": -74.047785,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 12,
+          "numero": 5
+        },
+        {
+          "nombreE": "Mazuren",
+          "latitud": 4.736314,
+          "longitud": -74.048932,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 12,
+          "numero": 6
+        },
+        {
+          "nombreE": "Calle 146",
+          "latitud": 4.732914,
+          "longitud": -74.049501,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 13,
+          "numero": 7
+        },
+        {
+          "nombreE": "Calle 142",
+          "latitud": 4.728020,
+          "longitud": -74.050331,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 13,
+          "numero": 8
+        },
+        {
+          "nombreE": "Alcala",
+          "latitud": 4.720692,
+          "longitud": -74.051554,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 2,
+          "numero": 9
+        },
+        {
+          "nombreE": "Prado",
+          "latitud": 4.714721,
+          "longitud": -74.052562,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 15,
+          "numero": 10
+        },
+        {
+          "nombreE": "Calle 127",
+          "latitud": 4.704527,
+          "longitud": -74.054279,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 15,
+          "numero": 11
+        },
+        {
+          "nombreE": "Pepe Sierra",
+          "latitud": 4.698035,
+          "longitud": -74.055338,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 16,
+          "numero": 12
+        },
+        {
+          "nombreE": "Calle 106",
+          "latitud": 4.694089,
+          "longitud": -74.056012,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 16,
+          "numero": 13
+        },
+        {
+          "nombreE": "Calle 100",
+          "latitud": 4.685544,
+          "longitud": -74.057295,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 97,
+          "numero": 14
+        },
+        {
+          "nombreE": "Virrey",
+          "latitud": 4.676210,
+          "longitud": -74.059025,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 97,
+          "numero": 15
+        },
+        {
+          "nombreE": "Calle 85",
+          "latitud": 4.673505,
+          "longitud": -74.059448,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 99,
+          "numero": 16
+        },
+        {
+          "nombreE": "Heroes",
+          "latitud": 4.668372,
+          "longitud": -74.060301,
+          "tipo": "intercambiador",
+          "alimentadores": "No",
+          "UPZ": 99,
+          "numero": 17
+        }
+      ]
+    },
+    {
+      "nombreT": "Avenida Suba",
+      "n_estaciones": 14,
+      "n_t" : 4,
+      "estaciones": [
+        {
+          "nombreE": "Portal Suba",
+          "latitud": 4.746958,
+          "longitud": -74.094657,
+          "tipo": "portal",
+          "alimentadores": "Si",
+          "UPZ": 19,
+          "numero": 1
+        },
+        {
+          "nombreE": "La campiña",
+          "latitud": 4.742804,
+          "longitud": -74.091366,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 19,
+          "numero": 2
+        },
+        {
+          "nombreE": "Suba - TV 91",
+          "latitud": 4.738918,
+          "longitud": -74.086967,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 19,
+          "numero": 3
+        },
+        {
+          "nombreE": "21 Angeles",
+          "latitud": 4.735464,
+          "longitud": -74.080981,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 23,
+          "numero": 4
+        },
+        {
+          "nombreE": "Gratamira",
+          "latitud": 4.727490,
+          "longitud": -74.074731,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 23,
+          "numero": 5
+        },
+        {
+          "nombreE": "Suba AV Boyaca",
+          "latitud": 4.721163,
+          "longitud": -74.074801,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 24,
+          "numero": 6
+        },
+        {
+          "nombreE": "Niza - Calle 127",
+          "latitud": 4.712256,
+          "longitud": -74.072365,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 24,
+          "numero": 7
+        },
+        {
+          "nombreE": "Humedal Cordoba",
+          "latitud": 4.706937,
+          "longitud": -74.071250,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 24,
+          "numero": 8
+        },
+        {
+          "nombreE": "Av Suba CL 116",
+          "latitud": 4.699460,
+          "longitud": -74.069965,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 24,
+          "numero": 9
+        },
+        {
+          "nombreE": "Puentelargo",
+          "latitud": 4.693386,
+          "longitud": -74.067226,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 24,
+          "numero": 10
+        },
+        {
+          "nombreE": "Suba CL 100",
+          "latitud": 4.690612,
+          "longitud": -74.065711,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 25,
+          "numero": 11
+        },
+        {
+          "nombreE": "Suba CL 95",
+          "latitud": 4.684610,
+          "longitud": -74.063195,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 21,
+          "numero": 12
+        },
+        {
+          "nombreE": "Rionegro",
+          "latitud": 4.680421,
+          "longitud": -74.064783,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 21,
+          "numero": 13
+        },
+        {
+          "nombreE": "San Martin",
+          "latitud": 4.676489,
+          "longitud": -74.067124,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 21,
+          "numero": 14
+        }
+      ]
+    },
+    {
+      "nombreT": "Calle 80",
+      "n_estaciones": 13,
+      "n_t" : 5,
+      "estaciones": [
+        {
+          "nombreE": "Portal 80",
+          "latitud": 4.709528,
+          "longitud": -74.110592,
+          "tipo": "portal",
+          "alimentadores": "Si",
+          "UPZ": 71,
+          "numero": 1
+        },
+        {
+          "nombreE": "Quirigua",
+          "latitud": 4.706784,
+          "longitud": -74.108896,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 73,
+          "numero": 2
+        },
+        {
+          "nombreE": "Carrera 90",
+          "latitud": 4.704645,
+          "longitud": -74.104622,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 73,
+          "numero": 3
+        },
+        {
+          "nombreE": "Avenida Cali",
+          "latitud": 4.702378,
+          "longitud": -74.100176,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 26,
+          "numero": 4
+        },
+        {
+          "nombreE": "Granja - KRR 77",
+          "latitud": 4.699663,
+          "longitud": -74.096806,
+          "tipo": "normal",
+          "alimentadores": "Si",
+          "UPZ": 26,
+          "numero": 5
+        },
+        {
+          "nombreE": "Minuto de Dios",
+          "latitud": 4.696639,
+          "longitud": -74.091555,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 26,
+          "numero": 6
+        },
+        {
+          "nombreE": "Boyaca",
+          "latitud": 4.693915,
+          "longitud": -74.087152,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 26,
+          "numero": 7
+        },
+        {
+          "nombreE": "Ferias",
+          "latitud": 4.690912,
+          "longitud": -74.084628,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 26,
+          "numero": 8
+        },
+        {
+          "nombreE": "Avenida 68",
+          "latitud": 4.685775,
+          "longitud": -74.080554,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 26,
+          "numero": 9
+        },
+        {
+          "nombreE": "Carrera 53",
+          "latitud": 4.681741,
+          "longitud": -74.077366,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 22,
+          "numero": 10
+        },
+        {
+          "nombreE": "Carrera 47",
+          "latitud": 4.677975,
+          "longitud": -74.073644,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 22,
+          "numero": 11
+        },
+        {
+          "nombreE": "Escuela militar",
+          "latitud": 4.675746,
+          "longitud": -74.070158,
+          "tipo": "intercambiador",
+          "alimentadores": "No",
+          "UPZ": 22,
+          "numero": 12
+        },
+        {
+          "nombreE": "Polo",
+          "latitud": 4.670746,
+          "longitud": -74.064844,
+          "tipo": "intercambiador",
+          "alimentadores": "No",
+          "UPZ": 98,
+          "numero": 13
+        }
+      ]
+    },
+    {
+      "nombreT": "NQS Central",
+      "n_estaciones": 13,
+      "n_t" : 6,
+      "estaciones": [
+        {
+          "nombreE": "Castellana",
+          "latitud": 4.676080,
+          "longitud": -74.063526,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 21,
+          "numero": 1
+        },
+        {
+          "nombreE": "NQS Calle 75",
+          "latitud": 4.670055,
+          "longitud": -74.071353,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 98,
+          "numero": 2
+        },
+        {
+          "nombreE": "Av Chile",
+          "latitud": 4.666450,
+          "longitud": -74.074451,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 98,
+          "numero": 3
+        },
+        {
+          "nombreE": "Simon Bolivar",
+          "latitud": 4.657580,
+          "longitud": -74.077627,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 98,
+          "numero": 4
+        },
+        {
+          "nombreE": "Movistar Arena",
+          "latitud": 4.650254,
+          "longitud": -74.078346,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 100,
+          "numero": 5
+        },
+        {
+          "nombreE": "Campin -UAN",
+          "latitud": 4.645739,
+          "longitud": -74.078685,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 100,
+          "numero": 6
+        },
+        {
+          "nombreE": "U. Nacional",
+          "latitud": 4.637007,
+          "longitud": -74.079388,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 106,
+          "numero": 7
+        },
+        {
+          "nombreE": "A. El Dorado",
+          "latitud": 4.630665,
+          "longitud": -74.079903,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 106,
+          "numero": 8
+        },
+        {
+          "nombreE": "CAD",
+          "latitud": 4.623655,
+          "longitud": -74.084050,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 111,
+          "numero": 9
+        },
+        {
+          "nombreE": "Paloquemao",
+          "latitud": 4.616672,
+          "longitud": -74.089736,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 111,
+          "numero": 10
+        },
+        {
+          "nombreE": "Guatoque - Veraguas",
+          "latitud": 4.604388,
+          "longitud": -74.095232,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 102,
+          "numero": 11
+        },
+        {
+          "nombreE": "Tygua - San jose",
+          "latitud": 4.599689,
+          "longitud": -74.088559,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 37,
+          "numero": 12
+        }
+      ]
+    },
+    {
+      "nombreT": "Avenida Las Américas",
+      "n_estaciones": 17,
+      "n_t" : 7,
+      "estaciones": [
+        {
+          "nombreE": "De la Sabana",
+          "latitud": 4.605604,
+          "longitud": -74.082134,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 102,
+          "numero": 1
+        },
+        {
+          "nombreE": "San Facon - KRR 22",
+          "latitud": 4.609695,
+          "longitud": -74.086771,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 102,
+          "numero": 2
+        },
+        {
+          "nombreE": "Ricaurte",
+          "latitud": 4.613261,
+          "longitud": -74.090769,
+          "tipo": "intercambiador",
+          "alimentadores": "No",
+          "UPZ": 102,
+          "numero": 3
+        },
+        {
+          "nombreE": "CDS - Carrera 32",
+          "latitud": 4.615998,
+          "longitud": -74.093831,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 108,
+          "numero": 4
+        },
+        {
+          "nombreE": "Zona Industrial",
+          "latitud": 4.620392,
+          "longitud": -74.098790,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 108,
+          "numero": 5
+        },
+        {
+          "nombreE": "Carrera 43",
+          "latitud": 4.622774,
+          "longitud": -74.101444,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 111,
+          "numero": 6
+        },
+        {
+          "nombreE": "Puente Aranda",
+          "latitud": 4.625716,
+          "longitud": -74.104734,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 111,
+          "numero": 7
+        },
+        {
+          "nombreE": "Distrito Grafiti",
+          "latitud": 4.627843,
+          "longitud": -74.111626,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 43,
+          "numero": 8
+        },
+        {
+          "nombreE": "Pradera",
+          "latitud": 4.628450,
+          "longitud": -74.118576,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 43,
+          "numero": 9
+        },
+        {
+          "nombreE": "Marsella",
+          "latitud": 4.629663,
+          "longitud": -74.129941,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 40,
+          "numero": 10
+        },
+        {
+          "nombreE": "AV Americas AV Boyaca",
+          "latitud": 4.630090,
+          "longitud": -74.133820,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 113,
+          "numero": 11
+        },
+        {
+          "nombreE": "Mandalay",
+          "latitud": 4.630708,
+          "longitud": -74.141360,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 113,
+          "numero": 12
+        },
+        {
+          "nombreE": "Banderas",
+          "latitud": 4.631192,
+          "longitud": -74.145251,
+          "tipo": "normal",
+          "alimentadores": "Si",
+          "UPZ": 47,
+          "numero": 13
+        },
+        {
+          "nombreE": "Transversal 86",
+          "latitud": 4.634138,
+          "longitud": -74.152083,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 44,
+          "numero": 14
+        },
+        {
+          "nombreE": "Biblioteca el Tintal",
+          "latitud": 4.639012,
+          "longitud": -74.158365,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 82,
+          "numero": 15
+        },
+        {
+          "nombreE": "Patio Bonito",
+          "latitud": 4.633853,
+          "longitud": -74.163741,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 82,
+          "numero": 16
+        },
+        {
+          "nombreE": "Portal Americas",
+          "latitud": 4.629401,
+          "longitud": -74.173628,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 81,
+          "numero": 17
+        }
+      ]
+    },
+    {
+      "nombreT": "NQS Sur",
+      "n_estaciones": 17,
+      "n_t" : 8,
+      "estaciones": [
+        {
+          "nombreE": "Comuneros",
+          "latitud": 4.604368,
+          "longitud": -74.099726,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 37,
+          "numero": 1
+        },
+        {
+          "nombreE": "Santa Isabel",
+          "latitud": 4.601481,
+          "longitud": -74.102749,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 37,
+          "numero": 2
+        },
+        {
+          "nombreE": "Sena",
+          "latitud": 4.597261,
+          "longitud": -74.110659,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 38,
+          "numero": 3
+        },
+        {
+          "nombreE": "NQS CLL 30 Sur",
+          "latitud": 4.594759,
+          "longitud": -74.118008,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 38,
+          "numero": 4
+        },
+        {
+          "nombreE": "NQS CLL 38A Sur",
+          "latitud": 4.593750,
+          "longitud": -74.123721,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 42,
+          "numero": 5
+        },
+        {
+          "nombreE": "Gral Santander",
+          "latitud": 4.593519,
+          "longitud": -74.129595,
+          "tipo": "normal",
+          "alimentadores": "Si",
+          "UPZ": 42,
+          "numero": 6
+        },
+        {
+          "nombreE": "Alqueria",
+          "latitud": 4.594246,
+          "longitud": -74.134498,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 62,
+          "numero": 7
+        },
+        {
+          "nombreE": "Venecia",
+          "latitud": 4.595568,
+          "longitud": -74.142537,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 42,
+          "numero": 8
+        },
+        {
+          "nombreE": "Sevillana",
+          "latitud": 4.595068,
+          "longitud": -74.147196,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 45,
+          "numero": 9
+        },
+        {
+          "nombreE": "Madelena",
+          "latitud": 4.596212,
+          "longitud": -74.157308,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 69,
+          "numero": 10
+        },
+        {
+          "nombreE": "Perdomo",
+          "latitud": 4.595736,
+          "longitud": -74.164703,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 69,
+          "numero": 11
+        },
+        {
+          "nombreE": "Portal Sur",
+          "latitud": 4.596846,
+          "longitud": -74.169399,
+          "tipo": "portal",
+          "alimentadores": "Si",
+          "UPZ": 49,
+          "numero": 12
+        },
+        {
+          "nombreE": "Bosa",
+          "latitud": 4.596897,
+          "longitud": -74.180938,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 49,
+          "numero": 13
+        },
+        {
+          "nombreE": "Despensa",
+          "latitud": 4.594656,
+          "longitud": -74.187968,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 49,
+          "numero": 14
+        },
+        {
+          "nombreE": "Leon XVIII",
+          "latitud": 4.592301,
+          "longitud": -74.192790,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 49,
+          "numero": 15
+        },
+        {
+          "nombreE": "Terreros",
+          "latitud": 4.589160,
+          "longitud": -74.199163,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 61,
+          "numero": 16
+        },
+        {
+          "nombreE": "San Mateo",
+          "latitud": 4.585919,
+          "longitud": -74.205512,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 68,
+          "numero": 17
+        }
+      ]
+    },
+    {
+      "nombreT": "Eje Ambiental",
+      "n_estaciones": 3,
+      "n_t" : 10,
+      "estaciones": [
+        {
+          "nombreE": "Museo del Oro",
+          "latitud": 4.601115,
+          "longitud": -74.072939,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 94,
+          "numero": 1
+        },
+        {
+          "nombreE": "Las Aguas",
+          "latitud": 4.602585,
+          "longitud": -74.068358,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 94,
+          "numero": 2
+        },
+        {
+          "nombreE": "Universidades",
+          "latitud": 4.605021,
+          "longitud": -74.067103,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 94,
+          "numero": 3
+        }
+      ]
+    },
+    {
+      "nombreT": "Avenida Eldorado",
+      "n_estaciones": 13,
+      "n_t" : 11,
+      "estaciones": [
+        {
+          "nombreE": "Centro memoria",
+          "latitud": 4.620570,
+          "longitud": -74.076442,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 109,
+          "numero": 1
+        },
+        {
+          "nombreE": "Concejo de Bogota",
+          "latitud": 4.626296,
+          "longitud": -74.080514,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 109,
+          "numero": 2
+        },
+        {
+          "nombreE": "Ciudad Universitaria",
+          "latitud": 4.630935,
+          "longitud": -74.083604,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 107,
+          "numero": 3
+        },
+        {
+          "nombreE": "Recinto Ferial",
+          "latitud": 4.635369,
+          "longitud": -74.091793,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 107,
+          "numero": 4
+        },
+        {
+          "nombreE": "Quinta Paredes ",
+          "latitud": 4.637218,
+          "longitud": -74.092940,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 107,
+          "numero": 5
+        },
+        {
+          "nombreE": "Gobernacion",
+          "latitud": 4.642563,
+          "longitud": -74.096361,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 104,
+          "numero": 6
+        },
+        {
+          "nombreE": "CAN",
+          "latitud": 4.646785,
+          "longitud": -74.098976,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 101,
+          "numero": 7
+        },
+        {
+          "nombreE": "Salitre - El Greco",
+          "latitud": 4.650884,
+          "longitud": -74.101699,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 100,
+          "numero": 8
+        },
+        {
+          "nombreE": "El Tiempo - Maloka",
+          "latitud": 4.657550,
+          "longitud": -74.105850,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 26,
+          "numero": 9
+        },
+        {
+          "nombreE": "Av Rojas",
+          "latitud": 4.662615,
+          "longitud": -74.109150,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 26,
+          "numero": 10
+        },
+        {
+          "nombreE": "Normandia",
+          "latitud": 4.669339,
+          "longitud": -74.113468,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 29,
+          "numero": 11
+        },
+        {
+          "nombreE": "Modelia",
+          "latitud": 4.674923,
+          "longitud": -74.117049,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 30,
+          "numero": 12
+        },
+        {
+          "nombreE": "Portal El dorado",
+          "latitud": 4.681655,
+          "longitud": -74.121395,
+          "tipo": "nortal",
+          "alimentadores": "Si",
+          "UPZ": 116,
+          "numero": 13
+        }
+      ]
+    },
+    {
+      "nombreT": "Carrera Décima",
+      "n_estaciones": 10,
+      "n_t" : 12,
+      "estaciones": [
+        {
+          "nombreE": "San Diego",
+          "latitud": 4.611147,
+          "longitud": -74.071405,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 93,
+          "numero": 1
+        },
+        {
+          "nombreE": "Las Nieves",
+          "latitud": 4.610238,
+          "longitud": -74.071833,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 93,
+          "numero": 2
+        },
+        {
+          "nombreE": "San Victorino",
+          "latitud": 4.601475,
+          "longitud": -74.077095,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 92,
+          "numero": 3
+        },
+        {
+          "nombreE": "Bicentenario",
+          "latitud": 4.593772,
+          "longitud": -74.081998,
+          "tipo": "normal",
+          "alimentadores": "Si",
+          "UPZ": 51,
+          "numero": 4
+        },
+        {
+          "nombreE": "San Bernardo",
+          "latitud": 4.590149,
+          "longitud": -74.084377,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 50,
+          "numero": 5
+        },
+        {
+          "nombreE": "Policarpa",
+          "latitud": 4.586339,
+          "longitud": -74.086855,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 50,
+          "numero": 6
+        },
+        {
+          "nombreE": "Ciudad Jardin",
+          "latitud": 4.581473,
+          "longitud": -74.090415,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 35,
+          "numero": 7
+        },
+        {
+          "nombreE": "Av 1 de Mayo",
+          "latitud": 4.577208,
+          "longitud": -74.093464,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 34,
+          "numero": 8
+        },
+        {
+          "nombreE": "Country Sur",
+          "latitud": 4.571388,
+          "longitud": -74.098590,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 34,
+          "numero": 9
+        },
+        {
+          "nombreE": "Portal 20 de Julio",
+          "latitud": 4.565385,
+          "longitud": -74.098015,
+          "tipo": "portal",
+          "alimentadores": "Si",
+          "UPZ": 33,
+          "numero": 10
+        }
+      ]
+    },
+    {
+      "nombreT": "Caracas Sur (Tunal)",
+      "n_estaciones": 3,
+      "n_t" : 9,
+      "estaciones": [
+        {
+          "nombreE": "Biblioteca",
+          "latitud": 4.570358,
+          "longitud": -74.130435,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 42,
+          "numero": 1
+        },
+        {
+          "nombreE": "Parque",
+          "latitud": 4.568355,
+          "longitud": -74.135471,
+          "tipo": "normal",
+          "alimentadores": "No",
+          "UPZ": 62,
+          "numero": 2
+        },
+        {
+          "nombreE": "Portal Tunal",
+          "latitud": 4.568481,
+          "longitud": -74.139842,
+          "tipo": "portal",
+          "alimentadores": "No",
+          "UPZ": 62,
+          "numero": 3
+        }
+      ]
+    }
+  ]
+}
