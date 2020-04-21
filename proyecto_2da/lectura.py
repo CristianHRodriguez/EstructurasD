@@ -268,6 +268,7 @@ R = 0
 
 if (O == D):
     result.lista_ListasS(T[T11], result)
+    R = 2
 while(R < 1):
     if (D < O):
         O, D = D, O
@@ -718,7 +719,6 @@ while(R < 1):
 
 
 result.reasignacion()
-result.mostrarE()
 sol1 = result.ret_numE(A1)
 sol2 = result.ret_numE(A2)
 result.calcular_d(sol1, sol2)
